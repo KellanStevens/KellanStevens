@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kellan</h1>
 <h3 align="center">I am interested in DevOps and backend development, I'm very passionate about solving problems with Technology , and enjoy Photography & Videography, pre and post production. Currently a student <a href="https://wethinkcode.co.za">@WeThinkCode </a></h3>
 
-- 🌱 I’m currently learning **Python & Java**
+- 🌱 I’m currently learning **Python, Java & NGINX**
 
 - 💬 Ask me about **anything technology, not unittests, ...**
 
