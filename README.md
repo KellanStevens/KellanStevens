@@ -3,7 +3,7 @@
 
 I am currently a Junior Software Developer</h3> 
 
-- 🌱 I’m currently learning **PHP, UNIX & NGINX**
+- 🌱 I’m currently learning **PHP, MySQL, UNIX & NGINX**
 
 - 💬 Ask me about **anything technology, not unittests, ...**
 
