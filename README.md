@@ -13,6 +13,7 @@ I am currently a Junior Software Developer</h3>
 <p align="left">
 <a href="https://twitter.com/kellan_stevens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kellan_stevens" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kellan-stevens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kellan-stevens" height="30" width="40" /></a>
+<a href="mailto:kellan@kellanstevens.com" target="blank"><img align="center" src="https://img.icons8.com/color/512/apple-mail.png" alt="kellan_stevens" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
