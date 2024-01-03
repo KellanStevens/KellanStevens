@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kellan</h1>
 <h3 align="center">I am interested in DevOps and backend development, I'm very passionate about solving problems with Technology , and enjoy Photography & Videography, pre and post production. <a href="https://wethinkcode.co.za">WeThinkCode_ </a> alumni.
 
-I am currently a Junior Software Developer</h3> 
+I am currently a Software Developer</h3> 
 
 - 🌱 I’m currently learning **PHP, MySQL, UNIX & NGINX**
 
