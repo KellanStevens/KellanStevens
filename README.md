@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Laravel, Livewire, MySQL and Nginx**.
 
-- 💬 Ask me about **my homelab and my experience in full stack development**.
+- 💬 Ask me about **my homelab, and how much I love the TALL stack**.
 
 - 👨‍💻 I have done projects with **PHP, Laravel, MySQL, Docker, Kubernetes, Nginx, Proxmox, HomeAssistant and more**.
 
@@ -13,7 +13,7 @@
   <a href="mailto:kellan@kellanstevens.com" target="blank"><img align="center" src="./images/Email.png" alt="email" height="55" width="55"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I'm familiar with:</h3>
 <p align="left"> 
   <a href="https://www.home-assistant.io" target="_blank" rel="noreferrer"> <img src="./images/Home_Assistant.png" alt="home-assistant" width="40" height="40"/></a>
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="./images/Proxmox.png" alt="proxmox" width="40" height="40"/></a>
