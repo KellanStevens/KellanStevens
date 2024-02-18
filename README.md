@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kellan</h1>
-<h3 align="center">I a Software Developer currently learning Laravel Livewire. I'm passionate about DevOps and backend development and solving problems with technology. Outside of tech I love running, hiking, photography & videography. <a href="https://wethinkcode.co.za">WeThinkCode_ </a> alumni.</h3> 
+<h3 align="center">I'm a Software Developer currently learning Laravel Livewire. I'm passionate about DevOps and backend development and solving problems with technology. Outside of tech I love running, hiking, photography & videography. <a href="https://wethinkcode.co.za">WeThinkCode_ </a> alumni.</h3>
 
 - 🌱 I’m currently learning **Laravel, Livewire, MySQL and Nginx**.
 
@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="left">Languages and Tools I'm familiar with:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.home-assistant.io" target="_blank" rel="noreferrer"> <img src="./images/Home_Assistant.png" alt="home-assistant" width="40" height="40"/></a>
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="./images/Proxmox.png" alt="proxmox" width="40" height="40"/></a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="./images/Apache.png" alt="apache" width="40" height="40"/></a>
@@ -28,5 +28,5 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./images/Docker.png" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./images/Git.png" alt="git" width="40" height="40"/></a>
   <a href="https://ubuntu.com/server" target="_blank" rel="noreferrer"> <img src="./images/Ubuntu.png" alt="linux" width="40" height="40"/></a>
-  
+
 </p>
