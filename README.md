@@ -17,6 +17,7 @@
 <p align="left">
   <a href="https://www.home-assistant.io" target="_blank" rel="noreferrer"> <img src="./images/Home_Assistant.png" alt="home-assistant" width="40" height="40"/></a>
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="./images/Proxmox.png" alt="proxmox" width="40" height="40"/></a>
+  <a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="./images/MySQL.png" alt="mysql" width="40" height="40"/></a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="./images/Apache.png" alt="apache" width="40" height="40"/></a>
   <a href="https://nginxproxymanager.com/" target="_blank" rel="noreferrer"> <img src="./images/Nginx_Proxy_Manager.png" alt="nginx" width="40" height="40"/></a>
   <a href="https://php.net/" target="_blank" rel="noreferrer"> <img src="./images/PHP.png" alt="php" width="40" height="40"/></a>
