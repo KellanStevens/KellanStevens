@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kellan</h1>
-<h3 align="center">I'm a Software Developer currently learning Laravel Livewire. I'm passionate about DevOps and backend development and solving problems with technology. Outside of tech I love running, hiking, photography & videography. <a href="https://wethinkcode.co.za">WeThinkCode_ </a> alumni.</h3>
-
-- 🌱 I’m currently learning **Laravel, Livewire, MySQL and Nginx**.
-
-- 💬 Ask me about **my homelab, and how much I love the TALL stack**.
-
-- 👨‍💻 I have done projects with **PHP, Laravel, MySQL, Docker, Kubernetes, Nginx, Proxmox, HomeAssistant and more**.
-
+<h3 align="center">I'm a PHP developer currently learning as much of Laravel as I can. I'm passionate about DevOps and my homelab. Outside of tech I love hiking and hanging out with my friends.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kellan-stevens" target="blank"><img align="center" src="./images/LinkedIn.png" alt="kellan-stevens" height="40" width="40" /></a>
