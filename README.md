@@ -8,19 +8,15 @@
 
 <h3 align="left">Languages and Tools I'm familiar with:</h3>
 <p align="left">
-  <a href="https://www.home-assistant.io" target="_blank" rel="noreferrer"> <img src="./images/Home_Assistant.png" alt="home-assistant" width="40" height="40"/></a>
   <a href="https://www.proxmox.com/" target="_blank" rel="noreferrer"> <img src="./images/Proxmox.png" alt="proxmox" width="40" height="40"/></a>
   <a href="https://mysql.com/" target="_blank" rel="noreferrer"> <img src="./images/MySQL.png" alt="mysql" width="40" height="40"/></a>
   <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="./images/Apache.png" alt="apache" width="40" height="40"/></a>
-  <a href="https://nginxproxymanager.com/" target="_blank" rel="noreferrer"> <img src="./images/Nginx_Proxy_Manager.png" alt="nginx" width="40" height="40"/></a>
   <a href="https://php.net/" target="_blank" rel="noreferrer"> <img src="./images/PHP.png" alt="php" width="40" height="40"/></a>
   <a href="https://pestphp.com/" target="_blank" rel="noreferrer"> <img src="./images/PestPHP.png" alt="pestphp" width="40" height="40"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="./images/Laravel.png" alt="laravel" width="40" height="40"/></a>
   <a href="https://livewire.laravel.com/" target="_blank" rel="noreferrer"> <img src="./images/Livewire.png" alt="laravel-livewire" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./images/Java.png" alt="java" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./images/Python.png" alt="python" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./images/Docker.png" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./images/Git.png" alt="git" width="40" height="40"/></a>
   <a href="https://ubuntu.com/server" target="_blank" rel="noreferrer"> <img src="./images/Ubuntu.png" alt="linux" width="40" height="40"/></a>
 
 </p>
