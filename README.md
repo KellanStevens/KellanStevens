@@ -3,7 +3,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kellan-stevens" target="blank"><img align="center" src="./images/LinkedIn.png" alt="kellan-stevens" height="40" width="40" /></a>
-  <a href="mailto:kellan@kellanstevens.com" target="blank"><img align="center" src="./images/Email.png" alt="email" height="55" width="55"/></a>
 </p>
 
 <h3 align="left">Languages and Tools I'm familiar with:</h3>
